@@ -1,0 +1,40 @@
+
+header {
+  margin: 10px;
+  height: 20vh;
+  background-color: rgb(163, 106, 163);
+  text-align: center;
+  width: 50vh;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+main{
+  height: 40vh;
+  border: 40px;
+  width: 100vh;
+  background-color: rgb(72, 142, 142);
+  text-align: center;
+  color: rgb(11, 34, 164);
+  font-style: oblique;
+  padding-top: 20px;
+
+  
+}
+
+footer {
+  border: 30px;
+  margin-top: 20px;
+  height: 30vh;
+  width: 150vh;
+  border: 20px;
+  text-align: center;
+  background-color: rgb(115, 206, 115);
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+  color: brown;
+  
+
+
+}
